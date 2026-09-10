@@ -82,10 +82,3 @@ All current agents including Miks (released March 2026).
 ## License
 
 MIT License - Free to use and modify.
-
-## Credits
-
-Built with inspiration from:
-- [val-insta-locker](https://github.com/daniilsys/val-insta-locker) (Rust/Tauri)
-- [LOCKIN](https://github.com/Ruchuee/LOCKIN) (Rust)
-- [V-Core](https://github.com/haarisxk/V-Core) (Python)
